@@ -30,7 +30,8 @@ A Retrieval-Augmented Generation (RAG) chatbot that indexes documents, retrieves
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
+git clone https://github.com/ApurvaThakur7/rag-chatbot.git
+
 cd rag-chatbot
 python -m venv venv
 
