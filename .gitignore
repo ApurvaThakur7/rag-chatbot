@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+
+# VS Code
+.vscode/
+
+# Byte-compiled / cache
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# FastAPI Static
+frontend/__pycache__/
+
+# Virtual environment
+venv/
