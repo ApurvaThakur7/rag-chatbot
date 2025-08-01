@@ -87,10 +87,13 @@ rag-chatbot/
 Try these example queries:
 
 ```
-"What are the main findings in the analysis?"
-"Which demographic group reported the highest incidents?"
-"What trends are shown between 2020 and 2024?"
-"What factors influence reporting patterns?"
+"Which group reported the highest number of domestic violence incidents?"
+
+"What percentage of domestic violence reports were made by Hispanic females?"
+
+"How do domestic violence reports among Hispanic females compare to African American women?"
+
+"What is the percentage decrease in domestic violence cases from Hispanic females to the second-highest group?"
 ```
 
 ## 🔬 Testing
